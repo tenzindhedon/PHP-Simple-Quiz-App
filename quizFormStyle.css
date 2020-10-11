@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep. 24, 2020, 12:49:34 p.m.
+    Author     : tendh
+*/
+
+body{
+    font-family: sans-serif;
+}
+h1, #score{
+    margin-left: 1%;
+}
+.questionBox{
+    padding: 2%;
+    margin: 1%;
+    border: solid thin lightgray;
+}
+#submit{
+    width: 150px;
+    padding: 10px;
+    background-color:darkturquoise;
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 1%;;
+}
+.correct{
+    background-color: lightgreen;
+}
+.incorrect{
+    background-color: lightpink;
+}
+
